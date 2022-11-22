@@ -1,0 +1,60 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #e2e2e2;
+    color: black;
+}
+
+.lmao {
+    margin:auto;
+    box-shadow:0 5px 15px gray;
+    border-radius:10px;
+    background-color:whitesmoke;
+    padding: 50px;
+  }
+
+.pic {
+    padding: 0;
+}
+
+.xd {
+    background-color: white;
+    border: #e2e2e2;
+    box-shadow: 0 2px 5px -2px gray;
+    font-family: Poppins, sans-serif;
+  }
+
+.btn {
+    font-weight: 600;
+    background-color: rgb(0, 0, 0);
+    border: none;
+    border-radius:20px;
+    color: white;
+    padding: 5px 15px;
+    cursor: pointer;
+    font-family: Poppins, sans-serif;
+}
+
+.btn:hover {
+    color: white !important;
+    background-color: #ff5c2a;
+}
+
+.socials {
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    padding: 0;
+    margin: 8px;
+}
+
+.twitter:hover {
+    background-color: rgb(44, 139, 203);
+}
+  
+.youtube:hover {
+    background-color: rgb(204, 49, 49);
+}
+  
+.github:hover {
+    background-color: rgb(160, 160, 160);
+}
